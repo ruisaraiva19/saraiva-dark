@@ -4,11 +4,11 @@ A VS Code theme based on Base16 Ocean Dark color scheme.
 
 ## Preview Vue
 
-![Preview Vue](vue.png)
+![Preview Vue](images/vue.png)
 
 ## Preview React
 
-![Preview React](react.png)
+![Preview React](images/react.png)
 
 ## Installation
 
@@ -36,6 +36,6 @@ I use this setting:
 "bracketPairColorizer.forceIterationColorCycle": true,
 ```
 
-![Bracket](bracket.png)
+![Bracket](images/bracket.png)
 
 **Enjoy!**
