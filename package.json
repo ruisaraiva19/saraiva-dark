@@ -2,7 +2,7 @@
     "name": "saraiva-dark",
     "displayName": "Saraiva Dark",
     "description": "A VS Code theme based on Base16 Ocean Dark color scheme.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.31.0"
     },
@@ -20,8 +20,8 @@
     },
     "publisher": "ruisaraiva19",
     "repository": {
-        "type" : "git",
-        "url" : "https://github.com/ruisaraiva19/saraiva-dark.git"
+        "type": "git",
+        "url": "https://github.com/ruisaraiva19/saraiva-dark.git"
     },
     "icon": "images/icon.png"
 }
